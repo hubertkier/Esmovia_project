@@ -1,0 +1,10 @@
+.main_column{
+    background-color: lightgray;
+    width: 30%;
+    height: auto;
+}
+
+.completed {
+    text-decoration: line-through;
+}
+
